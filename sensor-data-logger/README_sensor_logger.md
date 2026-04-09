@@ -150,11 +150,3 @@ Built by a Mechanical Engineer transitioning into Robotics and Automation.
 Part of a 3-month Python → ROS 2 → Robotics learning journey.
 
 ---
-
-## Next Steps
-
-- Connect to real Arduino sensors via PySerial
-- Replace manual entry with automatic serial data collection
-- Add Matplotlib graphs for sensor trends
-- Add alert thresholds with email notifications
-- Build a web dashboard with Flask
