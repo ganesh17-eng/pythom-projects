@@ -33,12 +33,3 @@ industrial-safety-monitor/
 │   └── sensor_log.csv       # Auto-generated sensor log
 └── README.md
 ```
-
-## Dependencies
-
-- **Arduino** — `LiquidCrystal` (built-in)
-- **Python 3** — `pyserial`, `csv`, `datetime` (stdlib)
-
----
-
-MIT License — Week 3 of 12 · Robotics Roadmap
